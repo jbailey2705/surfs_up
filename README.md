@@ -38,4 +38,4 @@ With some additional analysis we can breakout Station vs Temps in both months to
 
 ![Screen Shot 2022-10-05 at 11 32 31 AM](https://user-images.githubusercontent.com/109354592/194122950-8713085f-b2c7-4673-b4b7-bb8be8f7f9bd.png)
 
-
+With the additional data analysis I would recommend moving forward with the decision to open up shop, enjoy a nice day of surfing and a scoop of ice cream. 
